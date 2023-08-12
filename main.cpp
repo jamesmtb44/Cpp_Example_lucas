@@ -9,5 +9,4 @@ int main() {
     for( int i = 1; i < 10+1; i++) {
         std::cout << i << std::endl;
     }
-    
 }
